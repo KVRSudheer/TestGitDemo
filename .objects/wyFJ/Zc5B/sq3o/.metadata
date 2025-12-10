@@ -1,0 +1,12 @@
+﻿{
+  "Name": "UiBank-Loan Apply",
+  "Type": "Screen",
+  "Id": "sq3o9T05SkqGcFk1iLiZeg",
+  "Reference": "mnQZrcUrCUaZK338YHD2kw/sq3o9T05SkqGcFk1iLiZeg",
+  "ParentRef": "mnQZrcUrCUaZK338YHD2kw/Zc5BphaqiUefcssOeRL5ew",
+  "Created": "2025-12-10T10:10:44.0033174Z",
+  "Updated": "2025-12-10T10:10:44.0033174Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
